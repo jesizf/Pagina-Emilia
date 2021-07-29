@@ -1,0 +1,17 @@
+.contact header nav {
+    text-align:right
+   
+   }
+   
+.contact h4{
+    color: var(--colorverde);
+}
+.contact p{
+    font-weight: 400;
+}
+
+.contact span{
+    color:var(--colorVerde);
+
+
+}

@@ -2,6 +2,29 @@
 body{
     font-family: 'Open Sans';
     
+}
+a{
+    text-decoration: none;
+}
 
+ul{
+    padding:0;
 
+}
+li{
+    list-style: none;
+}
+h1{
+    font-family: 'Raleway',sans-serif;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 400;
+   
+}
+:root{
+    --colorVerde:#44a392;
+    --colorVerdeOscuro: #44a400;
+}
+.music ul li{
+    margin:0;
 }
